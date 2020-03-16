@@ -1,0 +1,2 @@
+rootProject.name='MAD_practical1'
+include ':app'
